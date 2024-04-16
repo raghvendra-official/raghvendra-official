@@ -1,31 +1,21 @@
-<!-- Add this to your GitHub profile README.md -->
+function playRockPaperScissors() {
+  const choices = ["rock", "paper", "scissors"];
+  const computerChoice = choices[Math.floor(Math.random() * choices.length)];
+  let playerChoice = prompt("Enter your choice (rock, paper, scissors): ").toLowerCase();
 
-### Let's play a game!
+  while (!choices.includes(playerChoice)) {
+    playerChoice = prompt("Invalid choice. Enter rock, paper, or scissors: ").toLowerCase();
+  }
 
-I've created a simple "Guess the Number" game using JavaScript. Can you guess the correct number between 1 and 100?
-
-Click the button below to start the game!
-
-<button onclick="startGame()">Start Game</button>
-
-<script>
-// Generate a random number between 1 and 100
-const randomNumber = Math.floor(Math.random() * 100) + 1;
-
-// Function to start the game
-function startGame() {
-    const userGuess = prompt("I'm thinking of a number between 1 and 100. What is your guess?");
-
-    // Convert user's guess to a number
-    const guess = parseInt(userGuess);
-
-    // Check if the guess is correct
-    if (guess === randomNumber) {
-        alert("Congratulations! You guessed the correct number!");
-    } else {
-        let message = guess > randomNumber ? "Too high! Try again." : "Too low! Try again.";
-        alert(message);
-    }
+  if (playerChoice === computerChoice) {
+    console.log("It's a tie!");
+  } else if ((playerChoice === "rock" && computerChoice === "scissors") ||
+             (playerChoice === "paper" && computerChoice === "rock") ||
+             (playerChoice === "scissors" && computerChoice === "paper")) {
+    console.log("You win!");
+  } else {
+    console.log("You lose!");
+  }
 }
-</script>
 
+playRockPaperScissors();

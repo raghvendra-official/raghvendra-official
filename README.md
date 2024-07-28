@@ -71,7 +71,7 @@ Description of the project and what it does. Key technologies used.
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/raghvendraofficial)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/raghvendraofficial)
 - Twitter: [Your Twitter](https://twitter.com/yourtwitter)
 - Blog: [Your Blog](http://yourblog.com)
 

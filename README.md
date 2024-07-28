@@ -81,6 +81,6 @@ Description of the project and what it does. Key technologies used.
 
 ###
 
-<img src="https://raw.githubusercontent.com/raghvendra-official/raghvendra-official/output/snake.svg" alt="Snake animation" />
+### 🐍 Contribution Snake Game
 
-###
+![GitHub Contribution Snake](./dist/github-contribution-grid-snake.gif)

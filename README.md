@@ -71,16 +71,12 @@ Description of the project and what it does. Key technologies used.
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourlinkedin)
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/raghvendraofficial)
 - Twitter: [Your Twitter](https://twitter.com/yourtwitter)
 - Blog: [Your Blog](http://yourblog.com)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/raghvendra-official/count.svg?"  />
-</div>
 
-###
 
-### 🐍 Contribution Snake Game
+### 🌐 Visitor Counter
 
-![GitHub Contribution Snake](./dist/github-contribution-grid-snake.gif)
+![Visitor Count](https://profile-counter.glitch.me/raghvendra-official/count.svg)

@@ -62,7 +62,6 @@ Description of the project and what it does. Key technologies used.
 
 ## 📑 Certifications
 
-![GitHub](https://img.shields.io/badge/-GitHub%20Foundation-000?logo=github)
 <img src="./.img/github-foundations.png">
 
 

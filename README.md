@@ -89,3 +89,8 @@ Description of the project and what it does. Key technologies used.
 
 ![Visitor Count](https://profile-counter.glitch.me/raghvendra-official/count.svg)
 
+
+![Valorant Agent](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2s4MTVleWE0MWhlYTZvYXl3NmI5MWhhNHdoZThyMnlvZXdzcGNpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPxZQENmZwj4Z8YfZQ/giphy.gif)
+
+
+

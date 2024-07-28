@@ -67,11 +67,18 @@ Description of the project and what it does. Key technologies used.
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghvendra-official&show_icons=true&hide_border=true&theme=dark)
+<span align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghvendra-official&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&bg_color=000000" height="190" alt="languages graph" />
+
+</span>
+
+
+###
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/raghvendraofficial)
+- LinkedIn: [@Raghvendra](https://www.linkedin.com/in/raghvendraofficial)
 - Twitter: [Your Twitter](https://twitter.com/yourtwitter)
 - Blog: [Your Blog](http://yourblog.com)
 
@@ -80,3 +87,4 @@ Description of the project and what it does. Key technologies used.
 ### 🌐 Visitor Counter
 
 ![Visitor Count](https://profile-counter.glitch.me/raghvendra-official/count.svg)
+

@@ -19,7 +19,7 @@ I am a passionate Full-Stack Developer with a love for creating dynamic and resp
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Shell](https://img.shields.io/badge/-Shell-0000?logo=gnu-bash)
+![Shell](https://img.shields.io/badge/-Shell-000?logo=gnu-bash)
 
 
 ### Front-End

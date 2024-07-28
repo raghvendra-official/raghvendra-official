@@ -1,0 +1,35 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Game
+        uses: Platane/snk@master
+        with:
+          github_user_name: raghvendra-official
+          gif_out_path: dist/github-contribution-grid-snake.gif
+
+      - name: Create output directory
+        run: mkdir -p dist
+
+      - name: Add generated snake game gif to the repository
+        run: cp dist/github-contribution-grid-snake.gif $GITHUB_WORKSPACE
+        shell: bash
+
+      - name: Push generated snake game gif to the repository
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -f dist/github-contribution-grid-snake.gif
+          git commit -m "Generate snake game"
+          git push

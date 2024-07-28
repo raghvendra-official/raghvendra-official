@@ -69,8 +69,7 @@ Description of the project and what it does. Key technologies used.
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghvendra-official&show_icons=true&hide_border=true&theme=dark)
 <span align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghvendra-official&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&bg_color=000000" height="190" alt="languages graph" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghvendra-official&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="190" alt="languages graph"  />
 </span>
 
 

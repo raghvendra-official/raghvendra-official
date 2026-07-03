@@ -99,6 +99,17 @@ Terraform infrastructure, Ansible automation and GitHub Actions CI/CD.
 **Repository:** https://github.com/raghvendra-official/WanderLust
 
 **Live Demo:** https://wanderlust-5c2r.onrender.com
+
+## 🤖 NovaAI
+
+A modern AI-powered conversational assistant inspired by ChatGPT and Gemini. Built with React, Node.js, Express, and Google Gemini AI, featuring persistent chat history, Markdown rendering, syntax-highlighted code blocks, typing animations, and a responsive dark-themed interface.
+
+**Tech Stack:** React • Node.js • Express • Google Gemini AI • Vite • React Markdown
+
+**Repository:** https://github.com/raghvendra-official/NovaAI
+
+**Live Demo:** https://nova-ai-wheat-one.vercel.app/
+
 ## ☁️ Terraform AWS Infrastructure
 
 Reusable Terraform modules for AWS infrastructure provisioning.
@@ -112,10 +123,6 @@ playbooks.
 
 **Repository:** https://github.com/raghvendra-official/ansible_playbook
 
-## 🛡️ CyberSentinels
-
-Cybersecurity platform with phishing detection, vulnerability assessment
-and intrusion monitoring.
 
 ------------------------------------------------------------------------
 
